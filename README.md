@@ -18,4 +18,4 @@ python -m U2init init --server ATX-server_ip:8000
 2. 如果只是初始化，直接执行
 ```bash
 python -m U2init init 
-```bash
+```
