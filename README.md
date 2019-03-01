@@ -9,7 +9,8 @@
 3、适用uiautomator2最新版：0.1.11.dev1
 
 # 启动
-1. 双击启动Run_U2.exe文件
-2. 输入ATX-server部署服务器的ip
-3. 设备初始化
-4. 初始化成功后根据提示进入平台地址使用设备
+1. U2init.py目录下执行，初始化连接ATX-server
+python -m U2init init --server init_ip:8000
+
+2.如果只是初始化，直接执行
+python -m U2init init 
