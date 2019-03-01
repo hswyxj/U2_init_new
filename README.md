@@ -4,6 +4,7 @@
 安装atx—uiautomator2库：pip install uiautomator2==0.1.11.dev1
 ```
 2、ATX-server平台已经成功启动
+
 3、适用uiautomator2最新版：0.1.11.dev1
 
 # 启动
