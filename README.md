@@ -12,7 +12,7 @@
 
 1. U2init.py目录下执行，初始化连接ATX-server
 ```bash
-python -m U2init init --server init_ip:8000
+python -m U2init init --server ATX-server_ip:8000
 ```
 
 2. 如果只是初始化，直接执行
