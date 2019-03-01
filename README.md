@@ -1,4 +1,4 @@
-前提：
+# 前提：
 
 1、安装python环境，并安装了atx—uiautomator2库
 ```bash
@@ -9,6 +9,7 @@
 3、适用uiautomator2最新版：0.1.11.dev1
 
 # 启动
+
 1. U2init.py目录下执行，初始化连接ATX-server
 python -m U2init init --server init_ip:8000
 
