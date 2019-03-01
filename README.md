@@ -1,4 +1,5 @@
 前提：
+
 1、安装python环境，并安装了atx—uiautomator2库
 ```bash
 安装atx—uiautomator2库：pip install uiautomator2==0.1.11.dev1
